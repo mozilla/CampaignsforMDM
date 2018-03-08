@@ -11,7 +11,7 @@ Campaigns that increase the number, success, or impact of localization.
 Campaigns that increase the impact of volunteers work supporting Mozilla's users.
 
 ### Documenting
-Campaigns that drive new approaches or bring new volume and impact on writing documentation for MDN etc.  
+Campaigns that drive new approaches or bring new volume and impact to writing documentation for MDN etc.  
 
 ### Testing 
 Campaigns that bring energy or volume to testing websites or products i.e. [Firefox Quantum Sprint](https://firefoxsprint.mozilla.community/)
