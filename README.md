@@ -7,6 +7,9 @@ Campaigns are time-bound activities for [Mission Driven Mozillians](https://wiki
 ### Localization
 Campaigns that increase the number, success, or impact of localization.
 
+### SuMo
+Campaigns that increase the impact of volunteers work supporting Mozilla's users.
+
 ### Documenting
 Campaigns that drive new approaches or bring new volume and impact to answering support questions, writing documentation for MDN etc.  
 
