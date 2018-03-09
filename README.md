@@ -14,10 +14,10 @@ Campaigns that increase the impact of volunteers work supporting Mozilla's users
 Campaigns that drive new approaches or bring new volume and impact to answering support questions, writing documentation for MDN etc.  
 
 ### Testing 
-Campaigns that bring energy or volume to testing websites or products i.e. [Firefox Quantum Sprint](https://firefoxsprint.mozilla.community/)
+Campaigns that bring energy or volume to testing websites or products i.e. [Firefox Quantum Sprint](https://firefoxsprint.mozilla.community/).
 
 ### Evangelism (Product)
-Campaigns that raise awareness, create new skills, or increase contributions to Mozilla's product or technology. i.e. https://blog.mozillaindia.org/1932
+Campaigns that raise awareness, create new skills, or increase contributions to Mozilla's product or technology. i.e. [Rain of Rust](https://blog.mozillaindia.org/1932).
 
 ### Evangelism (Mission)
-Campaigns that drive awareness and impact of one of the 5 [Internet Health Issue Areas](https://www.mozilla.org/en-US/internet-health/): Privacy & Security, Openess, Decentralization, Digital Inclusion, Web Literacy. i.e. [Aadhaar Take Action Campaign](https://foundation.mozilla.org/campaigns/aadhaar/take-action/) or the [January Privacy Month](https://wiki.mozilla.org/India/task_force/Policy_and_Advocacy/January_Privacy_Month_Campaign) 
+Campaigns that drive awareness and impact of one of the 5 [Internet Health Issue Areas](https://www.mozilla.org/en-US/internet-health/): Privacy & Security, Openess, Decentralization, Digital Inclusion, Web Literacy. i.e. [Aadhaar Take Action Campaign](https://foundation.mozilla.org/campaigns/aadhaar/take-action/) or the [January Privacy Month](https://wiki.mozilla.org/India/task_force/Policy_and_Advocacy/January_Privacy_Month_Campaign) .
