@@ -1,6 +1,6 @@
-# Activate Campaign Pipeline
+# Campaigns for Mission Driven Mozillians
 
-This is the pipeline for Activate campaigns. Here you can find upcoming, ongoing, and past campaigns and even submit ideas for new campaigns. 
+This is a repository that cordinates all the work related to Campaigns for Mission Driven Mozillians.
 
 Campaigns are time-bound activities for [Mission Driven Mozillians](https://wiki.mozilla.org/Innovation/Projects/Mission-Driven_Mozillians_Strategy) that advance Mozilla's mission through one of the high-value contribution categories:  
 
@@ -21,3 +21,5 @@ Campaigns that raise awareness, create new skills, or increase contributions to 
 
 ### Evangelism (Mission)
 Campaigns that drive awareness and impact of one of the 5 [Internet Health Issue Areas](https://www.mozilla.org/en-US/internet-health/): Privacy & Security, Openess, Decentralization, Digital Inclusion, Web Literacy. i.e. [Aadhaar Take Action Campaign](https://foundation.mozilla.org/campaigns/aadhaar/take-action/) or the [January Privacy Month](https://wiki.mozilla.org/India/task_force/Policy_and_Advocacy/January_Privacy_Month_Campaign) .
+
+If you're interested to find  find upcoming, ongoing, and past campaigns and even submit ideas for new campaigns, you can check the [pipeline project](https://github.com/mozilla/CampaignsforMDM/projects/1)
