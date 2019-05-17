@@ -1,6 +1,6 @@
 # Campaigns for Mission Driven Mozillians
 
-This is a repository that cordinates all the work related to Campaigns for Mission Driven Mozillians.
+This is a repository that cordinates all the work related to Campaigns for Mission Driven Mozillians. Once a campaign is live it will show up on the [Activate website](http://activate.mozilla.community/). 
 
 Campaigns are time-bound activities for [Mission Driven Mozillians](https://wiki.mozilla.org/Innovation/Projects/Mission-Driven_Mozillians_Strategy) that advance Mozilla's mission through one of the high-value contribution categories:  
 
